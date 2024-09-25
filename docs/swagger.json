@@ -33,7 +33,7 @@
                         }
                     }
                 },
-                "summary": "Get a list of all games",
+                "summary": "Get a list of all gamess",
                 "description": "Returns a list of all games in API"
             }
         }
